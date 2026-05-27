@@ -33,7 +33,7 @@ img {
 header {
     width: 100%;
     background: #ffffff;
-    background: url("/Assets1/fundo.png");
+    background: url("assets/fundo.png");
     padding: 1rem 0;
    
 }
@@ -119,7 +119,7 @@ header {
 }
 
 .home-container {
-    background: url("./Assets1/fundo.png");
+    background: url("assets/fundo.png");
     background-position: center;
     background-size: cover;
 }
@@ -220,7 +220,7 @@ header {
     content: "";
     position: absolute;
     inset: 0;
-    background: url("./Assets1/fundocard.jpg");
+    background: url("assets/fundocard.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -335,7 +335,7 @@ header {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: #ffffff url("/Assets1/fundo.png") center / cover no-repeat;
+    background: #ffffff url("assets/fundo.png") center / cover no-repeat;
     padding: 1rem;
 }
 
