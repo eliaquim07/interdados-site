@@ -6,6 +6,6 @@ Landing page moderna e responsiva desenvolvida para a Interdados, com foco na ap
 - CSS
 
  Acesse o projeto:
-
-eliaquim07.github.io/interdados-site/
+ 
+ https://eliaquim07.github.io/interdados-site/
 
